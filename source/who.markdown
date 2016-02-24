@@ -86,8 +86,8 @@ Active list of committers (in alphabetical order of their usernames)
 |aprateek|Abhinandan Prateek|
 |bfederle|Brian Federle|
 |bhaisaab|Rohit Yadav|
-|brett|Brett Porter|
 |boris|Boris Schrijver|
+|brett|Brett Porter|
 |chipchilders|Chip Childers|
 |chiradeep|Chiradeep Vittal|
 |claytonweise|Clayton Weise|
@@ -99,6 +99,7 @@ Active list of committers (in alphabetical order of their usernames)
 |devdeep|Devdeep Singh|
 |duffy|Ian Duffy|
 |edison|Disheng Su|
+|ekho|Wilder Rodrigues|
 |erikw|Erik Weber|
 |frankzhang|Xin Zhang|
 |gaurav|Gaurav Nandkumar Aradhye|
@@ -121,6 +122,7 @@ Active list of committers (in alphabetical order of their usernames)
 |jlk|John Kinsella|
 |jtomechak|Jessica Tomechak|
 |jzb|Joe Brockmeier|
+|karenv|Karen Vuong|
 |kawai|Hiroaki Kawai|
 |kdamage|Kelcey Damage|
 |ke4qqq|David Nalley|
@@ -153,8 +155,10 @@ Active list of committers (in alphabetical order of their usernames)
 |pranavs|Pranav Saxena|
 |pyr|Pierre-Yves Ritschard|
 |radhika|Radhika Nair|
+|rafael|Rafael Weingärtner|
 |rajani|Rajani Karuturi|
 |rajeshbattala|Rajesh Battala|
+|remi|Remi Bergsma|
 |resmo|Rene Moser|
 |sailajamada|Sailaja Mada|
 |saksham|Saksham Srivastava|
